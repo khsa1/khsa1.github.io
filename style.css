@@ -1,0 +1,15 @@
+body{
+   margin-left:   10%;
+   margin-right:  10%;
+   margin-top:    30px;
+   margin-bottom: 30px;
+}
+
+h1{
+   color: #002088;
+}
+
+dt {
+   color: #002088;
+   font-weight: bold;
+}
